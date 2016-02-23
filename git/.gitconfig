@@ -1,9 +1,9 @@
 [user]
-	name = James Tomasino
-	email = james@tomasino.org
+	name = Stephanie Mitterko
+	email = stephanie.mitterko@inventivhealth.com
 
 [github]
-	user = jamestomasino
+	user = smitterko
 
 [core]
 	whitespace = trailing-space, space-before-tab, cr-at-eol
